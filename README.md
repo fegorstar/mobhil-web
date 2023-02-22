@@ -5,12 +5,12 @@ This is an used Car Selling Business Website for Mobhil cars company, where user
 <img src="https://github.com/fegorstar/mobhil-web/blob/master/mobhil/static/img/homepage.PNG">
 
 
-# Features
-•	Pages: which contains the homepage, about page and every other static pages.
-•	Cars: Which contains the cars listings and listing
-•	Accounts: which allows the users to register and login.
-•	Search functionality
-•	Contacts: which allows the user to fill a form to make inquiry about a car listing.
+## App Features
+- Pages: which contains the homepage, about page and every other static pages.
+- Cars: Which contains the cars listings and listing. Accounts
+- Accounts: Which allows the users to register and login.
+- Search functionality
+- Contacts: which allows the user to fill a form to make inquiry about a car listing.
 
 ## Support
 💙 If you like this project, give it a ⭐ and share it with friends!
